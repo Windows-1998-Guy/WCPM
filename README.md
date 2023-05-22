@@ -12,5 +12,4 @@ This is a table providing the commands for using WCPM:
 | :---------------------------:  | :--------------------: |
 | `wcpm insert <package_name>`   |  Installs a package.   |
 | `wcpm outsert <package_name>`  |  Removes a package.    |
-| `wcpm reinsert <package_name>` |  Reinstalls a package. |
 | `wcpm find <package_name>`     |  Finds a package.      |
