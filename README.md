@@ -2,7 +2,7 @@
 Wired and Connected Package Manager.
 
 # What is this?
-WCPM is a package manager, like APT-GET, DNF, PACMAN, PAMAC. It is entirely made with the <a href = "https://www.python.org/" target = "_blank">Python</a> programming language. Download speed depends on your internet connection speed. Packages are stored on GitHub (for now - it may change in the future). <br>
+WCPM is a package manager, like APT-GET, DNF, PACMAN, PAMAC. It is entirely made with the <a href = "https://www.python.org/" target = "blank">Python</a> programming language. Download speed depends on your internet connection speed. Packages are stored on GitHub (for now - it may change in the future). <br>
 This is an open-source package manager. Forks of this project are accepted.
 
 # How to use WCPM?
